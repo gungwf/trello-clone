@@ -1,0 +1,9 @@
+target/
+backend/target/
+*.class
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+.next/
+*.log
