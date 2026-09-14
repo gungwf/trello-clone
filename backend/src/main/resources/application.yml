@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/trello_db
     username: postgres
-    password: postgrespassword
+    password: hocdinhea
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
